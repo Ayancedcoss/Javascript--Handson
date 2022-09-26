@@ -17,5 +17,12 @@ var y = 10;
 var z = x + y;
 alert(z);
 
+// variable Exercise -5
+var 
+firstName = "John",
+lastName = "Doe",
+age = 35;
+document.getElementById('demo5').innerHTML = firstName +  " " +lastName +  " "  +age;
+
 
 
