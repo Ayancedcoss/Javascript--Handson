@@ -92,6 +92,13 @@ const person = {
   };
    alert( person.firstName );
 
+   //   object exercise -2
+   const person1 = {
+    firstName: "John",
+    lastName: "Doe",
+    country :"Norway"
+   };
+
 
 
 
