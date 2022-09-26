@@ -109,10 +109,14 @@ alert(person.name+ " is " + person.age);
 
 
 //  event exercise -1 
-<button 
-onclick="alert('Hello')">Click me.
-</button>
+<button onclick="alert('Hello')">Click me.</button>
 
+
+
+//  event exercise -2
+ function myFunction(){
+    <button onclick="myFunction()">Click me.</button>
+ };
 
 
 
