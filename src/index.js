@@ -30,8 +30,14 @@ document.getElementById('demo5').innerHTML = firstName +  " " +lastName +  " "  
 // operators  exercise -1 
      var x = 10;
      var y = 5;
-     alert(x*y);
-     
+    //  alert(x*y);
+
+// operators  exercise -2
+// alert(10/2);
+
+
+
+
 
 
 
