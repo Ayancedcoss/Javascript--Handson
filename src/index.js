@@ -108,6 +108,12 @@ const person = {
 alert(person.name+ " is " + person.age);
 
 
+//  event exercise -1 
+<button 
+onclick="alert('Hello')">Click me.
+</button>
+
+
 
 
 
