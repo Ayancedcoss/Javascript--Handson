@@ -148,6 +148,9 @@ let x = txt.slice(10, 17);
 let txt6 = "Hello World";
 txt = txt6.replace("Hello", "Welcome");
 
+// String Method exercise -4
+let txt7 = "Hello World";
+txt = txt7.toUpperCase();
 
 
 
