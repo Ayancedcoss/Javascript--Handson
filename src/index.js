@@ -128,6 +128,10 @@ let txt = "Hello World!";
 let x = txt.length;
 alert(x);
 
+// string excercice - 2
+let txt1 = "We are \"Vikings\" ";
+alert(txt1);
+
 
 
 
