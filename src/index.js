@@ -152,6 +152,11 @@ txt = txt6.replace("Hello", "Welcome");
 let txt7 = "Hello World";
 txt = txt7.toUpperCase();
 
+// String Method exercise -5
+let txt8 = "Hello World";
+txt =  txt8.toLowerCase()
+;
+
 
 
 
