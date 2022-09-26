@@ -100,6 +100,13 @@ const person = {
    };
 
 
+//   object exercise -3
+   const person3 = {
+     name:"John",
+      age:50
+};
+alert(person.name+ " is " + person.age);
+
 
 
 
