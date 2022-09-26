@@ -48,6 +48,18 @@ document.getElementById('demo5').innerHTML = firstName +  " " +lastName +  " "  
 x = 10;
 y = 5;
 x *= y;
+//  operators end
+//  data type start
+//   data type excercise - 1
+let length = 16;          // Number
+
+let lastName = "Johnson"; // String
+
+const x = {
+  firstName: "John",
+  lastName: "Doe"
+};                          // Object
+
 
 
 
