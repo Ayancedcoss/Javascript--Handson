@@ -33,7 +33,9 @@ document.getElementById('demo5').innerHTML = firstName +  " " +lastName +  " "  
     //  alert(x*y);
 
 // operators  exercise -2
-// alert(10/2);
+ alert(10/2);
+
+
 
 
 
