@@ -67,8 +67,20 @@ function myFunction() {
   }
   myFunction();
 
+//   function exercise - 2
 
-  
+function myFunction (){
+ alert("Hello World!");
+}
+
+//  function exercise - 3
+function myFunction() {
+   return " hello ";
+    }
+document.getElementById("demo").innerHTML = myFunction();
+
+
+
 
 
 
