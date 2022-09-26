@@ -85,6 +85,14 @@ function myFunction() {
 document. getElementById("demo").innerHTML= "Hello";
   }
 
+//   object exercise -1 
+const person = {
+    firstName: "John",
+    lastName: "Doe"
+  };
+   alert( person.firstName );
+
+
 
 
 
