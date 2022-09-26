@@ -80,6 +80,12 @@ function myFunction() {
 document.getElementById("demo").innerHTML = myFunction();
 
 
+//  function exercise - 4
+function myFunction() {
+document. getElementById("demo").innerHTML= "Hello";
+  }
+
+
 
 
 
