@@ -131,6 +131,11 @@ alert(x);
 // string excercice - 2
 let txt1 = "We are \"Vikings\" ";
 alert(txt1);
+// string excercice - 3
+let str1 = "Hello ";
+let str2 = "World!";
+alert(str1+str2);
+
 
 
 
