@@ -15,7 +15,7 @@ document.getElementById("demo3").innerHTML = x  + y;
 var x = 5;
 var y = 10;
 var z = x + y;
-alert(z);
+// alert(z);
 
 // variable Exercise -5
 var 
@@ -23,6 +23,15 @@ firstName = "John",
 lastName = "Doe",
 age = 35;
 document.getElementById('demo5').innerHTML = firstName +  " " +lastName +  " "  +age;
+
+//       VARIABLE EXERCISE- 1 COMPLETED
+
+//    JS OPERATORS START
+// operators  exercise -1 
+     var x = 10;
+     var y = 5;
+     alert(x*y);
+     
 
 
 
