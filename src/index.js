@@ -36,8 +36,12 @@ document.getElementById('demo5').innerHTML = firstName +  " " +lastName +  " "  
 //  alert(10/2);
 
 // operators  exercise -3
- alert(15%9);
- 
+//  alert(15%9);
+
+// operators  exercise -4
+ var x = 10;
+ var y = 15;
+  x += y;
  
 
 
