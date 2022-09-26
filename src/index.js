@@ -6,4 +6,8 @@ document.getElementById('demo1').innerHTML = carName
 var x = 5;
 document.getElementById('demo2').innerHTML = x;
 
+// variable Exercise -3
+var x = 5;
+var y = 10;
+document.getElementById("demo3").innerHTML = x  + y;
 
