@@ -144,6 +144,10 @@ txt = txt4.toUpperCase();
 let txt5 = "I can eat bananas all day";
 let x = txt.slice(10, 17);
 
+// String Method exercise -3
+let txt6 = "Hello World";
+txt = txt6.replace("Hello", "Welcome");
+
 
 
 
