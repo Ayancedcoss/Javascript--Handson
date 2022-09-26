@@ -140,6 +140,10 @@ alert(str1+str2);
 let txt4 = "Hello World!";
 txt = txt4.toUpperCase();
 
+// String Method exercise -2
+let txt5 = "I can eat bananas all day";
+let x = txt.slice(10, 17);
+
 
 
 
