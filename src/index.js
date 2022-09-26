@@ -123,6 +123,13 @@ alert(person.name+ " is " + person.age);
 
 
 
+//   string excercice - 1
+let txt = "Hello World!";
+let x = txt.length;
+alert(x);
+
+
+
 
 
 
