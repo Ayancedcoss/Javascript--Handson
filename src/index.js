@@ -11,3 +11,11 @@ var x = 5;
 var y = 10;
 document.getElementById("demo3").innerHTML = x  + y;
 
+// variable Exercise -4
+var x = 5;
+var y = 10;
+var z = x + y;
+alert(z);
+
+
+
