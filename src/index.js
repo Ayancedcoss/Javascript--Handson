@@ -136,6 +136,11 @@ let str1 = "Hello ";
 let str2 = "World!";
 alert(str1+str2);
 
+// String Method exercise -1 
+let txt4 = "Hello World!";
+txt = txt4.toUpperCase();
+
+
 
 
 
