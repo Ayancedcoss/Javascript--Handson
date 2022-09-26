@@ -44,6 +44,12 @@ document.getElementById('demo5').innerHTML = firstName +  " " +lastName +  " "  
   x += y;
  
 
+// operators  exercise -5
+x = 10;
+y = 5;
+x *= y;
+
+
 
 
 
