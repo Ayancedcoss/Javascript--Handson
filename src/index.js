@@ -59,7 +59,13 @@ const x = {
   firstName: "John",
   lastName: "Doe"
 };                          // Object
+  
 
+//  function exercise - 1
+function myFunction() {
+    alert("Hello World!");
+  }
+  myFunction();
 
 
 
